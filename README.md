@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/billybboy8?theme=dark&font=Noto%20Sans%20Avestan)
+![LeetCode Stats](https://leetcard.jacoblin.cool/billybboy8?theme=dark&font=Noto%20Sans%20Avestan&ext=contest)
